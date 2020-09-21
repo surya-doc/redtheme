@@ -1,0 +1,72 @@
+body{
+  /* margin:0px;
+  padding:0px; */
+
+/* background:linear-gradient(to right,#5d54a4, #9d65c9); */
+background: url(background6.jpg) rgba(0, 0, 0, 0.7);
+
+background-blend-mode: multiply;
+   /* background-size: 100% 100%; */
+background-size: cover;
+  text-align: center;
+
+}
+
+#title{
+  /* box-sizing: border-box; */
+  margin:auto;
+  margin-top:2%;
+  width:40%;
+  /* border-radius: 20px; */
+  /* border-width:20px; */
+  border-bottom: solid white 2px;
+  /* border:white solid; */
+  font-size:70px;
+  text-align: center;
+  padding:2%;
+  font-weight: 1000;
+  color:white;
+  text-shadow: 2px 2px 8px #FF0000;
+
+  font-family: 'Great Vibes', cursive;
+
+}
+
+.ABOUT{
+  font-family: 'Bree Serif', serif;
+font-weight: 400;
+font-size:20px;
+padding: 20px;
+  margin:auto;
+    background-color: rgba(157, 0, 0, 0.6);
+    border-left-style:solid;
+    border-color: rgb(255, 0, 0);
+    border-left-width: 3rem;
+    width:80%;
+    color: #FFF;
+    text-align: center;
+}
+li{
+  text-align:left;
+}
+a{
+  text-decoration: none;
+  color:#FFF;
+
+}
+a:hover{
+  text-decoration: none;
+  color:#FFF;
+}
+a:active{
+  text-decoration: none;
+  color:#FFF;
+}
+a:visited{
+  text-decoration: none;
+  color:#FFF;
+}
+
+.btn-dark{
+  background-color: rgb(255, 0, 0);
+}
